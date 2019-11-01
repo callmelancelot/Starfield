@@ -49,3 +49,7 @@ class OddballParticle extends Particle//inherits from Particle
     ellipse((float)X,(float)Y,80,80);
   }
 }
+
+void mousePressed(){
+  setup();
+}
