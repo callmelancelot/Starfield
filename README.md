@@ -4,7 +4,7 @@ For this assignment you will make a animation of fireworks. This common animatio
  
 Program requirements:
 ---------------------
-Your program must use at least two classes to model the particles. A `Particle` super class and an `Oddball` sub class. All the particles must be stored in a single array of the super class type. Make sure you do not unnunnecessarily duplicate inherited variables and functions in the `Oddball` sub class. Your `Oddball` sub class need only contain a constructor and `void move()` and/or `void show()` so that the `Oddball` moves and/or looks different.
+Your program must use at least two classes to model the particles. A `Particle` super class and an `Oddball` sub class. All the particles must be stored in a single array of the super class type. Make sure you do not unnunnecessarily duplicate inherited variables and functions in the `Oddball` sub class. Your `Oddball` sub class should only contain a constructor and `void move()` and/or `void show()` so that the `Oddball` moves and/or looks different.
 
 
 Suggested steps to completing this assignment
@@ -26,18 +26,8 @@ Extensions: Have a fun and be creative. If you have extra time you may want to m
 
 Samples of Student Work
 -----------------------
-[Chirs](https://chlee40.github.io/Starfield/)   
-[Luna](https://lunaisabel.github.io/Starfield/)   
-[Tomas](https://todeluco.github.io/Starfield/)   
-[Marvin](https://malee31.github.io/StarfieldProcessing/)   
-[Matt](https://madyer1.github.io/Starfield/)   
-[Kaitlyn](https://therealkaitlyn.github.io/Starfield/)   
 [Rafael](https://rafaelcenzano.github.io/Starfield/)   
 [Francesca](https://frprivalova.github.io/Starfield/)   
-[Robert](https://frestho.github.io/Starfield/)   
-[Antonio](https://anpacheco2.github.io/Starfield/)   
-[Maanav](https://gandhigang.github.io/Starfield/)   
-[Antonio](https://andzibmis.github.io/Starfield/)   
 [Vicky](https://vickyguan3.github.io/Starfield/)   
 [Marisa](https://saeriam.github.io/Starfield/)   
 [Fred](https://fredxhua.github.io/Starfield/)   
